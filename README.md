@@ -7,3 +7,5 @@ Les bases de Python
 La manipulation des données
 Les visualisations avec matplotlib
 L'analyse statistique
+
+![]
