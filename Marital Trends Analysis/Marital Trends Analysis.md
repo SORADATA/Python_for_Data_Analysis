@@ -148,6 +148,7 @@ plt.xlabel("Durée de mariage")
 plt.ylabel("Nombre d'enfant")
 plt.title("Un scatterplot entre la durée du mariage et le nombre d'enfant ")
 plt.show()
+# Ici on constate une baisse de la natalité depuis les années 1900 et ne fait que continuer à baisser .....
 ```
 
 
