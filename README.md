@@ -10,6 +10,7 @@ Ce dépôt rassemble toutes mes analyses statistiques et de données réalisées
 Voici la liste des packages Python utilisés dans ce projet :
 
 - `pandas` : pour la manipulation et l'analyse de données.
+- ![Pandas](https://github.com/SORADATA/Python/blob/main/Python%20for%20Data%20Science/Python_Analysis/Images/Pandas.png)
 - `matplotlib` : pour la création de visualisations statiques.
 - `seaborn` : pour les visualisations statistiques plus avancées et esthétiques.
 - `numpy` : pour les calculs numériques.
