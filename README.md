@@ -2,6 +2,9 @@
 
 Ce dépôt rassemble toutes mes analyses statistiques et de données réalisées en Python. Il contient des exemples d'utilisation de packages populaires pour l'analyse de données et la visualisation, comme `matplotlib`, `seaborn`, `pandas`, etc.
 
+
+![Scatterplt](https://github.com/SORADATA/Python/blob/main/Python%20for%20Data%20Science/Python_Analysis/Images/Scatter.png)
+
 ## Packages Utilisés
 
 Voici la liste des packages Python utilisés dans ce projet :
@@ -27,4 +30,3 @@ pip install scipy
 pip install statsmodels
 pip install scikit-learn
 
-![Scatterplt](https://github.com/SORADATA/Python/blob/main/Python%20for%20Data%20Science/Python_Analysis/Images/Scatter.png)
