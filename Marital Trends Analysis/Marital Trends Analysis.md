@@ -94,6 +94,8 @@ plt.ylabel("Nombre moyen d'enfants")
 plt.title("Nombre moyen d'enfants par année de mariage")
 plt.show()
 
+# Ici on constate une baisse de la natalité depuis les années 1900 et ne fait que continuer à baisser mais à connu une augmentation entre 2009 et 2010 puis à connu un pic .....
+
 ```
 
 
@@ -148,7 +150,7 @@ plt.xlabel("Durée de mariage")
 plt.ylabel("Nombre d'enfant")
 plt.title("Un scatterplot entre la durée du mariage et le nombre d'enfant ")
 plt.show()
-# Ici on constate une baisse de la natalité depuis les années 1900 et ne fait que continuer à baisser .....
+
 ```
 
 
