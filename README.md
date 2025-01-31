@@ -34,3 +34,24 @@ Quelques extraits des analyses disponibles dans ce dépôt :
 
 
 
+Packages Utilisés
+Voici la liste des packages Python utilisés dans ce projet :
+
+pandas : pour la manipulation et l'analyse de données.
+Pandas
+matplotlib : pour la création de visualisations statiques.
+seaborn : pour les visualisations statistiques plus avancées et esthétiques.
+numpy : pour les calculs numériques.
+scipy : pour les fonctions statistiques avancées.
+statsmodels : pour les modèles statistiques.
+scikit-learn : pour le machine learning et l'analyse prédictive.
+Installation
+Pour installer les packages nécessaires, vous pouvez utiliser pip. Voici comment installer les packages un par un :
+
+pip install pandas
+pip install matplotlib
+pip install seaborn
+pip install numpy
+pip install scipy
+pip install statsmodels
+pip install scikit-learn
